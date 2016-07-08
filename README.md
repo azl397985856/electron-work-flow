@@ -1,6 +1,7 @@
 ## Introduction
 work flow base on electron and react to make your work easier.
 
+![image](https://github.com/azl397985856/electron-work-flow/raw/master/demo.png)
 ## Install
 
 ```bash
@@ -21,6 +22,6 @@ npm run release
 
 ## Contributing
 
-We welcome all contributions, please submit any ideas as [pull requests](https://github.com/azl397985856/arida/electron-work-flow/pulls) or as a [GitHub issue](https://github.com/azl397985856/electron-work-flow/issues).
+We welcome all contributions, please submit any ideas as [pull requests](https://github.com/azl397985856/electron-work-flow/pulls) or as a [GitHub issue](https://github.com/azl397985856/electron-work-flow/issues).
 ## Licence
 MIT
