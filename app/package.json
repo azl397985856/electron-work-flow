@@ -7,7 +7,7 @@
   "copyright": "© 2016, Best Logistics",
   "main": "background.js",
   "dependencies": {
-    "fs-jetpack": "^0.9.0",
+    "fs-jetpack": "^0.13.0",
     "react": "^0.14.7",
     "react-dom": "^16.0.1",
     "antd": "*"
